@@ -1,0 +1,1 @@
+cmd_/home/seed/Downloads/Meltdown_Attack/MeltdownKernel.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-37-generic/scripts/module-common.lds --build-id  -o /home/seed/Downloads/Meltdown_Attack/MeltdownKernel.ko /home/seed/Downloads/Meltdown_Attack/MeltdownKernel.o /home/seed/Downloads/Meltdown_Attack/MeltdownKernel.mod.o
